@@ -4,4 +4,8 @@
 =======
 # Race start
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 #hahahahhaha
+=======
+//trying to figure out github
+>>>>>>> Stashed changes
